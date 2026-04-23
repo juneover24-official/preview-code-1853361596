@@ -1,44 +1,8 @@
 {
   "qq_number": "1853361596",
   "group_number": "1060904763",
-  "updated_at": "2026-04-22T16:19:15.982307",
+  "updated_at": "2026-04-23T15:52:36.995922",
   "skins": [
-    {
-      "name": "Kt不急の好一个鼠鼠_音效一",
-      "file": "Kt不急の好一个鼠鼠_1.bds",
-      "thumb": "Kt不急の好一个鼠鼠_1.bds_py_26_light_thumb.png",
-      "full": "Kt不急の好一个鼠鼠_1.bds_py_26_light.png"
-    },
-    {
-      "name": "Kt不急の开心不开心",
-      "file": "Kt不急の开心不开心.bds",
-      "thumb": "Kt不急の开心不开心.bds_py_26_light_thumb.png",
-      "full": "Kt不急の开心不开心.bds_py_26_light.png"
-    },
-    {
-      "name": "Kt不急の烦恼日记",
-      "file": "Kt不急の烦恼日记.bds",
-      "thumb": "Kt不急の烦恼日记.bds_py_26_light_thumb.png",
-      "full": "Kt不急の烦恼日记.bds_py_26_light.png"
-    },
-    {
-      "name": "Kt不急の好一个鼠鼠_音效二",
-      "file": "Kt不急の好一个鼠鼠_2.bds",
-      "thumb": "Kt不急の好一个鼠鼠_2.bds_py_26_light_thumb.png",
-      "full": "Kt不急の好一个鼠鼠_2.bds_py_26_light.png"
-    },
-    {
-      "name": "Kt不急の彩虹屁",
-      "file": "Kt不急の彩虹屁.bds",
-      "thumb": "Kt不急の彩虹屁.bds_py_26_light_thumb.png",
-      "full": "Kt不急の彩虹屁.bds_py_26_light.png"
-    },
-    {
-      "name": "Kt不急の小鱼冻干",
-      "file": "Kt不急の小鱼冻干.bds",
-      "thumb": "Kt不急の小鱼冻干.bds_py_26_light_thumb.png",
-      "full": "Kt不急の小鱼冻干.bds_py_26_light.png"
-    },
     {
       "name": "kitty",
       "file": "Kt不急の好一个鼠鼠_2.bdi",
@@ -74,6 +38,42 @@
       "file": "Kt不急の烦恼日记.bdi",
       "thumb": "Kt不急の烦恼日记.bdi_py_26_light_thumb.png",
       "full": "Kt不急の烦恼日记.bdi_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の好一个鼠鼠_音效一",
+      "file": "Kt不急の好一个鼠鼠_1.bds",
+      "thumb": "Kt不急の好一个鼠鼠_1.bds_py_26_light_thumb.png",
+      "full": "Kt不急の好一个鼠鼠_1.bds_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の开心不开心",
+      "file": "Kt不急の开心不开心.bds",
+      "thumb": "Kt不急の开心不开心.bds_py_26_light_thumb.png",
+      "full": "Kt不急の开心不开心.bds_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の烦恼日记",
+      "file": "Kt不急の烦恼日记.bds",
+      "thumb": "Kt不急の烦恼日记.bds_py_26_light_thumb.png",
+      "full": "Kt不急の烦恼日记.bds_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の好一个鼠鼠_音效二",
+      "file": "Kt不急の好一个鼠鼠_2.bds",
+      "thumb": "Kt不急の好一个鼠鼠_2.bds_py_26_light_thumb.png",
+      "full": "Kt不急の好一个鼠鼠_2.bds_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の彩虹屁",
+      "file": "Kt不急の彩虹屁.bds",
+      "thumb": "Kt不急の彩虹屁.bds_py_26_light_thumb.png",
+      "full": "Kt不急の彩虹屁.bds_py_26_light.png"
+    },
+    {
+      "name": "Kt不急の小鱼冻干",
+      "file": "Kt不急の小鱼冻干.bds",
+      "thumb": "Kt不急の小鱼冻干.bds_py_26_light_thumb.png",
+      "full": "Kt不急の小鱼冻干.bds_py_26_light.png"
     }
   ]
 }
