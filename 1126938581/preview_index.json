@@ -1,6 +1,7 @@
 {
   "qq_number": "1853361596",
   "group_number": "1126938581",
+  "updated_at": "2026-11-04T02:31:02+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "Kt不急の宅家日常.bdi_py_26_light_thumb.png",
       "full": "Kt不急の宅家日常.bdi_py_26_light_thumb.png",
       "file_id": "d250e952416b58f2c61d842cdd9a7fe5"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Kt不急の宅家日常液态版.bdi",
+      "thumb": "Kt不急の宅家日常液态版.bdi_py_26_light_thumb.png",
+      "full": "Kt不急の宅家日常液态版.bdi_py_26_light_thumb.png",
+      "file_id": "3d4210adca426bb167c1f145aa110a24"
     }
-  ],
-  "updated_at": "2026-11-03T15:48:58+00:00"
+  ]
 }
